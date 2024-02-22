@@ -1,1 +1,2 @@
-# practice-gitTHis is my first Repo
+# practice-git
+This is my first Repo
